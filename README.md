@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Great Karigalan Portscanner is a simple Python-based port scanning tool created as a learning project. This is my first project in the field of cybersecurity, as I am new to this domain and eager to learn. The tool is designed to help understand the basics of network scanning and socket programming in Python. 
+Network Reconnaissance Tool is a simple Python-based port scanning tool created as a learning project. This is my first project in the field of cybersecurity, as I am new to this domain and eager to learn. The tool is designed to help understand the basics of network scanning and socket programming in Python. 
 
 As a beginner in cybersecurity, I developed this project to gain hands-on experience and to better understand network protocols and security concepts. While it may not be as sophisticated as professional tools, it represents an important step in my learning journey.
 
