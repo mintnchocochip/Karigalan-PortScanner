@@ -1,4 +1,4 @@
-# Great Karigalan Portscanner
+# Network Reconnaissance Tool
 
 ## Introduction
 
